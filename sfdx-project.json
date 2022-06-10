@@ -1,0 +1,23 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true
+        },
+        {
+            "path": "exception-handler",
+            "package": "exception-handler",
+            "versionName": "v1",
+            "versionNumber": "2022.06.1.NEXT",
+            "versionDescription": "minor framework for customizing exception",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "53.0",
+    "packageAliases": {
+        "exception-handler": "0Ho69000000k9fUCAQ",
+        "exception-handler@2022.6.1-1": "04t69000000Xr6KAAS"
+    }
+}
